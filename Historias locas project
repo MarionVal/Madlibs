@@ -15,6 +15,6 @@ verbo1 = input("verbo: ")
 verbo2 = input("verbo: ")
 sustantivo_plural = input("sustantivo (plural): ")
 
-madlib = f"!Programarmo es tan {adj}! Siempre me emociona porque me encanta {verbo1} problemas. !Aprende a {verbo2} con freeCodeCamp y alcanza tus {sustantivo_plural}!"
+madlib = f"!Programarmo es tan muy {adj}! Siempre me emociona porque me encanta {verbo1} problemas. !Aprende a {verbo2} con freeCodeCamp y alcanza tus {sustantivo_plural}!"
 
 print(madlib)
